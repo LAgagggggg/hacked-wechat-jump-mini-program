@@ -1,0 +1,10 @@
+Package: com.yourcompany.justjump
+Name: JustJump
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: LAgagggggg
+Author: LAgagggggg
+Section: Tweaks
+Version: 0.0.1-30+debug
+Installed-Size: 204
